@@ -1,0 +1,3 @@
+#Phpcsmd options
+#Thu Dec 18 19:16:53 NPT 2014
+phpcsmd.phpcs.standard=Yii2
