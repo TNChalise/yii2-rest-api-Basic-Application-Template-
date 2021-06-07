@@ -1,4 +1,4 @@
-#Rest API configuration in yii2-basic application
+# Rest API configuration in yii2-basic application
 
 
 Basic Rest API Using Basic Template of Yii2.
@@ -38,7 +38,7 @@ Please see the UserController under
 *app\modules\api\modules\v1\controllers,* 
 for the verbs allowed.
 
-###See the following files:
+### See the following files:
 
 1. app\config\web {Url Manager and module autoloading}
 2. app\modules\Api.php {To define nested modules, namespaces}
